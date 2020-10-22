@@ -12,4 +12,4 @@ ext install humao.rest-client
 
 ### Plugin URL
 
-[a link](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+[https://marketplace.visualstudio.com/items?itemName=humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
